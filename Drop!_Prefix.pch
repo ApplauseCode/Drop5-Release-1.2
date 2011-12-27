@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'Drop5' target in the 'Drop5' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+
+	#import <GameKit/GameKit.h>
+#endif
